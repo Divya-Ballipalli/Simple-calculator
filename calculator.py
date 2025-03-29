@@ -105,3 +105,7 @@ buttonpow.grid(row=6,column=1)
 buttonquit.grid(row=6,column=2)
 #without this the application couldn't run
 root.mainloop()
+
+
+
+
